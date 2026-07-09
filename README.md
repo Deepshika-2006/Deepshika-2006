@@ -1,115 +1,191 @@
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Deepshika%20Garlapati&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20AI%20Enthusiast&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Deepshika%20Garlapati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Deepshika Garlapati</h1>
+<!-- ===================== TYPING INTRO ===================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Python+Developer;Django+%7C+Flask+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%26+Full+Stack+Developer;Django+%7C+Flask+%7C+React;Building+Real-World+Web+Applications;Exploring+AI+%26+Modern+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+  <a href="https://github.com/Deepshika-2006">
+    <img src="https://img.shields.io/badge/GitHub-Deepshika--2006-181717?style=for-the-badge&logo=github"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepshika%20Garlapati-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="mailto:deepshikagarlapati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+<img align="right" width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-* 🎓 **B.Tech** — Computer Science and Engineering
-* 🏫 **Sreyas Institute of Engineering and Technology**
-* 📊 Current CGPA — **8.88 / 10**
-* 💻 Passionate about **Full Stack Development, Python & Artificial Intelligence**
-* 🌱 Currently strengthening my skills in **Django, React, DSA & Backend Development**
-* 💬 Ask me about **Python · Django · Flask · React · JavaScript · MySQL**
-* 🚀 Interested in building **real-world, scalable web applications**
-* 📫 Reach me at **[deepshikagarlapati@gmail.com](mailto:deepshikagarlapati@gmail.com)**
-* ⚡ Fun Fact — *I enjoy turning ideas into functional applications!*
+I am a **Computer Science and Engineering student** passionate about developing practical and user-focused software applications.
+
+My primary interests are **Python Development, Full Stack Web Development, Backend Engineering, and Artificial Intelligence**.
+
+I enjoy transforming ideas into functional applications while continuously improving my knowledge of **Data Structures, Algorithms, Database Management, REST APIs, and modern web technologies**.
+
+* 🎓 Pursuing **B.Tech in Computer Science and Engineering**
+* 🏫 Sreyas Institute of Engineering and Technology
+* 📊 Current CGPA: **8.88 / 10**
+* 💻 Interested in **Software Development & Full Stack Engineering**
+* 🌱 Currently improving **DSA, Django, React & Backend Development**
+* 🤖 Exploring **Artificial Intelligence and emerging technologies**
+* 🚀 Focused on building practical, real-world applications
+* 📫 Email: **[deepshikagarlapati@gmail.com](mailto:deepshikagarlapati@gmail.com)**
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Technical Skills
 
-<p align="center">
+<table align="center">
 
-<a href="https://github.com/Deepshika-2006" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
+<tr>
 
-<a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
+<td align="center" width="50%">
 
-<a href="mailto:deepshikagarlapati@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<strong>Programming Languages</strong>
-
-<br/><br/>
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript&theme=dark"/>
 
-</p>
+</td>
 
-<p align="center">
+<td align="center" width="50%">
 
-<strong>Frontend Development</strong>
-
-<br/><br/>
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark"/>
 
-</p>
+</td>
 
-<p align="center">
+</tr>
 
-<strong>Backend & Frameworks</strong>
+<tr>
 
-<br/><br/>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask&theme=dark"/>
+### Backend & Frameworks
 
-</p>
+<img src="https://skillicons.dev/icons?i=django,flask&theme=dark"/>
 
-<p align="center">
+</td>
 
-<strong>Databases</strong>
+<td align="center" width="50%">
 
-<br/><br/>
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
 
-</p>
+</td>
 
-<p align="center">
+</tr>
 
-<strong>Developer Tools</strong>
+<tr>
 
-<br/><br/>
+<td align="center" colspan="2">
+
+### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Projects
+
+### 🤖 Interactive AI Voice Agent System
+
+> A real-time AI-powered voice communication system designed for seamless and intelligent human-AI interactions.
+
+**Key Features**
+
+* Developed a low-latency AI voice agent with real-time **ASR and TTS**
+* Integrated **WebRTC** for real-time communication
+* Implemented **Human-in-the-Loop workflows** for monitoring and response control
+* Designed scalable backend pipelines for seamless voice interaction
+
+---
+
+### 🏙️ Crowdsourced Civic Issue Reporting System
+
+> A web-based platform that enables citizens to report, track, and manage civic issues efficiently.
+
+**Key Features**
+
+* Implemented location-based complaint registration
+* Added image upload functionality for issue reporting
+* Developed real-time complaint status tracking
+* Created an admin dashboard for complaint management and resolution
+
+---
+
+### 🛒 E-Commerce Web Application
+
+**Tech Stack:** `Django` `Python` `MySQL` `HTML` `CSS` `JavaScript`
+
+> A full-stack e-commerce platform developed using Django's MVT architecture.
+
+**Key Features**
+
+* User authentication and authorization
+* Product catalog management
+* CRUD operations
+* Shopping cart functionality
+* Responsive user interface
+* MySQL database integration
+
+---
+
+## 💼 Experience
+
+### Artificial Intelligence Virtual Internship
+
+**Elewayte**
+
+* Gained practical exposure to Artificial Intelligence and application development
+* Developed interactive application workflows
+* Built responsive interfaces using reusable React components
+* Applied state management concepts in application development
+* Strengthened practical software development and problem-solving skills
+
+---
+
+## 📚 Core Competencies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Deepshika-2006/Deepshika-2006/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-61DAFB?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -118,7 +194,7 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepshika-2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepshika-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepshika-2006&theme=tokyonight&hide_border=true"/>
 
@@ -132,113 +208,93 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Certifications & Achievements
 
-<div align="center">
-
-| #   | Project                                       | Tech Stack                                        | Highlights                                                        |
-| --- | --------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
-| 🤖  | **Interactive AI Voice Agent System**         | AI · ASR/TTS · WebRTC                             | Real-time AI voice interaction with Human-in-the-Loop workflows   |
-| 🏙️ | **Crowdsourced Civic Issue Reporting System** | Full Stack Development                            | Location-based civic issue reporting, tracking & admin management |
-| 🛒  | **E-Commerce Web Application**                | Django · Python · MySQL · HTML · CSS · JavaScript | Authentication, CRUD operations, product catalog & shopping cart  |
-| 🎬  | **CinePass Movie Booking System**             | Python · HTML · CSS                               | Interactive movie browsing and ticket booking platform            |
-
-</div>
+* 🏆 Participated in **Smart India Hackathon**
+* 🐍 Certified in **Python for Data Science**
+* 🤖 Completed **Generative AI Certification**
+* 💼 Completed **TCS iON Career Edge – Young Professional**
+* 💻 Developed multiple academic and personal full-stack applications
+* 🎓 Maintaining a CGPA of **8.88 / 10**
 
 ---
 
-## 💼 Internship Experience
-
-### 🤖 Artificial Intelligence Virtual Internship — Elewayte
-
-* Completed a virtual internship focused on **Artificial Intelligence and application development**
-* Implemented interactive application workflows
-* Built responsive interfaces using reusable **React components**
-* Gained practical experience in **state management and real-world development workflows**
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| Badge | Achievement                                    |
-| ----- | ---------------------------------------------- |
-| 🏆    | Smart India Hackathon Participant              |
-| 🎓    | CGPA **8.88 / 10**                             |
-| 💻    | Developed Multiple Full Stack Web Applications |
-| 🐍    | Active GitHub Contributor                      |
-| 🤖    | Artificial Intelligence Virtual Internship     |
-| 🚀    | Passionate About Software Development & AI     |
-
-</div>
-
----
-
-## 📜 Certifications
+## 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-blue?style=for-the-badge&logo=python&logoColor=white"/>
-
- 
-
-<img src="https://img.shields.io/badge/Generative%20AI-Certified-purple?style=for-the-badge&logo=openai&logoColor=white"/>
-
- 
-
-<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-blue?style=for-the-badge"/>
-
- 
-
-<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-green?style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepshika-2006&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+<img src="https://raw.githubusercontent.com/Deepshika-2006/Deepshika-2006/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-## 📊 Profile Views
+## 💬 Developer Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Deepshika-2006&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## ❤️ Support
+## 📫 Let's Connect
 
 <p align="center">
 
-If you find my projects helpful or interesting, please consider giving my repositories a <strong>⭐ Star</strong> — your support motivates me to keep learning and building!
-
-</p>
-
----
-
-<p align="center">
-
-<strong>Thanks for visiting my profile! 🙏</strong>
+I'm interested in learning opportunities, software development, internships, collaboration, and building impactful technology projects.
 
 <br/><br/>
 
-<em>"First, solve the problem. Then, write the code."</em>
+<a href="https://github.com/Deepshika-2006">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+ 
+
+<a href="mailto:deepshikagarlapati@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Deepshika-2006&label=Profile%20Views&color=6a11cb&style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<strong>Thanks for visiting my GitHub profile! 👩‍💻</strong>
+
+<br/><br/>
+
+<i>Building. Learning. Improving. 🚀</i>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc"/>
 
 </p>
