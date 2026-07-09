@@ -229,13 +229,6 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Deepshika-2006/Deepshika-2006/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
