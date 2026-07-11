@@ -111,6 +111,28 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 ## 🚀 Featured Projects
 
+### 🛒 ShopVerse – Full-Stack E-Commerce Application
+
+**Tech Stack:** `Django` `Python` `MySQL` `HTML` `CSS` `JavaScript` `Razorpay`
+
+> A full-stack e-commerce web application featuring secure payments, order management, shipment tracking, and invoice generation.
+
+**Key Features**
+
+* Developed user authentication, product catalog, shopping cart, and secure checkout functionality
+* Integrated Razorpay payment gateway with server-side payment verification
+* Implemented persistent order history with product details and dynamic order status tracking
+* Added shipping address management and downloadable PDF invoice generation
+* Built Django Admin functionality for managing products, orders, payments, and delivery status
+
+<p align="left">
+  <a href="https://github.com/Deepshika-2006/ShopVerse-Ecommerce">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
 ### 🤖 Interactive AI Voice Agent System
 
 > A real-time AI-powered voice communication system designed for seamless and intelligent human-AI interactions.
