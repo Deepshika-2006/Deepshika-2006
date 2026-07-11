@@ -11,17 +11,23 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/Deepshika-2006">
     <img src="https://img.shields.io/badge/GitHub-Deepshika--2006-181717?style=for-the-badge&logo=github"/>
   </a>
+
   &nbsp;
+
   <a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
     <img src="https://img.shields.io/badge/LinkedIn-Deepshika%20Garlapati-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+
   &nbsp;
+
   <a href="mailto:deepshikagarlapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -30,11 +36,11 @@
 
 <img align="right" width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-I am a **Computer Science and Engineering student** passionate about developing practical and user-focused software applications.
+I am a **Computer Science and Engineering student** passionate about developing practical, scalable, and user-focused software applications.
 
-My primary interests are **Python Development, Full Stack Web Development, Backend Engineering, and Artificial Intelligence**.
+My primary interests include **Python Development, Full Stack Web Development, Backend Engineering, and Artificial Intelligence**.
 
-I enjoy transforming ideas into functional applications while continuously improving my knowledge of **Data Structures, Algorithms, Database Management, REST APIs, and modern web technologies**.
+I enjoy transforming ideas into functional applications and strengthening my knowledge of **Data Structures, Algorithms, Database Management Systems, REST APIs, and modern web technologies**.
 
 * 🎓 Pursuing **B.Tech in Computer Science and Engineering**
 * 🏫 Sreyas Institute of Engineering and Technology
@@ -42,7 +48,7 @@ I enjoy transforming ideas into functional applications while continuously impro
 * 💻 Interested in **Software Development & Full Stack Engineering**
 * 🌱 Currently improving **DSA, Django, React & Backend Development**
 * 🤖 Exploring **Artificial Intelligence and emerging technologies**
-* 🚀 Focused on building practical, real-world applications
+* 🚀 Building practical projects to strengthen real-world development skills
 * 📫 Email: **[deepshikagarlapati@gmail.com](mailto:deepshikagarlapati@gmail.com)**
 
 <br clear="right"/>
@@ -109,84 +115,96 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 ShopVerse – Full-Stack E-Commerce Application
+## 🛒 ShopVerse – Full-Stack E-Commerce Application
 
 **Tech Stack:** `Django` `Python` `MySQL` `HTML` `CSS` `JavaScript` `Razorpay`
 
-> A full-stack e-commerce web application featuring secure payments, order management, shipment tracking, and invoice generation.
+> A feature-rich full-stack e-commerce web application designed to provide a complete online shopping experience with secure payments, order processing, shipment tracking, and invoice generation.
 
-**Key Features**
+### ✨ Key Features
 
-* Developed user authentication, product catalog, shopping cart, and secure checkout functionality
-* Integrated Razorpay payment gateway with server-side payment verification
-* Implemented persistent order history with product details and dynamic order status tracking
-* Added shipping address management and downloadable PDF invoice generation
-* Built Django Admin functionality for managing products, orders, payments, and delivery status
+* Developed secure user authentication and account management functionality
+* Built a dynamic product catalog with category-based product organization
+* Implemented product details, shopping cart, quantity management, and checkout workflows
+* Integrated **Razorpay Payment Gateway** for secure online payment processing
+* Implemented server-side payment verification and automated order creation
+* Developed persistent order history with complete purchased product information
+* Created dynamic order tracking from **Ordered → Packed → Shipped → Out for Delivery → Delivered**
+* Added shipping address collection and customer delivery information management
+* Generated downloadable **PDF invoices** containing customer, product, payment, and order information
+* Integrated Django Admin functionality for managing products, payments, orders, and delivery statuses
+* Secured database credentials and Razorpay API keys using environment variables
 
 <p align="left">
-  <a href="https://github.com/Deepshika-2006/ShopVerse-Ecommerce">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/Deepshika-2006/ShopVerse-Ecommerce">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🤖 Interactive AI Voice Agent System
+## 🤖 Interactive AI Voice Agent System
 
-> A real-time AI-powered voice communication system designed for seamless and intelligent human-AI interactions.
+> A real-time AI-powered voice communication system designed to enable seamless and intelligent interactions between users and AI systems.
 
-**Key Features**
+### ✨ Key Features
 
-* Developed a low-latency AI voice agent with real-time **ASR and TTS**
-* Integrated **WebRTC** for real-time communication
-* Implemented **Human-in-the-Loop workflows** for monitoring and response control
-* Designed scalable backend pipelines for seamless voice interaction
+* Developed a low-latency AI voice agent supporting real-time communication
+* Integrated **Automatic Speech Recognition (ASR)** for converting speech into text
+* Implemented **Text-to-Speech (TTS)** functionality for generating voice responses
+* Used **WebRTC** technology to enable real-time communication workflows
+* Implemented **Human-in-the-Loop** functionality for monitoring and response control
+* Designed scalable backend pipelines for efficient voice interaction processing
 
----
+<p align="left">
 
-### 🏙️ Crowdsourced Civic Issue Reporting System
+<a href="https://github.com/Deepshika-2006">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> A web-based platform that enables citizens to report, track, and manage civic issues efficiently.
-
-**Key Features**
-
-* Implemented location-based complaint registration
-* Added image upload functionality for issue reporting
-* Developed real-time complaint status tracking
-* Created an admin dashboard for complaint management and resolution
+</p>
 
 ---
 
-### 🛒 E-Commerce Web Application
+## 🏙️ Crowdsourced Civic Issue Reporting System
 
-**Tech Stack:** `Django` `Python` `MySQL` `HTML` `CSS` `JavaScript`
+> A web-based civic engagement platform that enables citizens to report local infrastructure and public-service issues while providing administrators with tools to track and manage complaint resolution.
 
-> A full-stack e-commerce platform developed using Django's MVT architecture.
+### ✨ Key Features
 
-**Key Features**
+* Developed a web-based platform for reporting and tracking civic issues
+* Implemented location-based complaint registration functionality
+* Added image upload support for providing visual evidence of reported issues
+* Developed complaint status tracking for monitoring issue resolution progress
+* Created an administrative dashboard for complaint management
+* Designed workflows to improve communication between citizens and administrators
+* Built functionality for efficient complaint monitoring and resolution management
 
-* User authentication and authorization
-* Product catalog management
-* CRUD operations
-* Shopping cart functionality
-* Responsive user interface
-* MySQL database integration
+<p align="left">
+
+<a href="https://github.com/Deepshika-2006">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Artificial Intelligence Virtual Internship
+## Artificial Intelligence Virtual Internship
 
 **Elewayte**
 
-* Gained practical exposure to Artificial Intelligence and application development
-* Developed interactive application workflows
-* Built responsive interfaces using reusable React components
-* Applied state management concepts in application development
-* Strengthened practical software development and problem-solving skills
+* Processed and organized raw datasets to improve data consistency and usability
+* Performed basic data analysis to understand patterns and information within datasets
+* Created bar charts and visual representations to communicate data insights effectively
+* Gained practical experience in data preprocessing, analysis, and visualization
+* Strengthened analytical thinking, data interpretation, and problem-solving skills
 
 ---
 
@@ -251,9 +269,6 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 ---
 
-
----
-
 ## 💬 Developer Quote
 
 <p align="center">
@@ -268,7 +283,7 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 <p align="center">
 
-I'm interested in learning opportunities, software development, internships, collaboration, and building impactful technology projects.
+I'm interested in software development opportunities, internships, technical collaborations, and building impactful technology projects.
 
 <br/><br/>
 
@@ -276,13 +291,13 @@ I'm interested in learning opportunities, software development, internships, col
 <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
- 
+&nbsp;
 
 <a href="mailto:deepshikagarlapati@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
