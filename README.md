@@ -7,127 +7,129 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Python+%7C+Django+%7C+React+Developer;Building+Creative+Digital+Experiences;Learning.+Building.+Improving."
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+Scalable+Web+Applications;Learning.+Building.+Improving."
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
 
-  <a href="https://deepshika-portfolio-psi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://deepshika-portfolio-psi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Deepshika-2006">
-    <img src="https://img.shields.io/badge/GitHub-Deepshika--2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/Deepshika-2006">
+<img src="https://img.shields.io/badge/GitHub-Deepshika--2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepshika%20Garlapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
+<img src="https://img.shields.io/badge/LinkedIn-Deepshika%20Garlapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:deepshikagarlapati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:deepshikagarlapati@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepshika-2006&label=PROFILE+VIEWS&color=7F00FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Deepshika-2006&label=PROFILE+VIEWS&color=7F00FF&style=flat-square"/>
 </p>
 
 <br/>
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 <table>
+
 <tr>
 
 <td width="60%" valign="top">
 
-I'm **Deepshika Garlapati**, a Computer Science and Engineering student passionate about developing practical, scalable, and user-focused digital applications.
+I'm **Deepshika Garlapati**, a Computer Science and Engineering student passionate about building scalable, user-friendly, and impactful software applications.
 
-I enjoy transforming ideas into functional products using modern frontend and backend technologies.
+I enjoy solving real-world problems through **Full-Stack Development**, backend engineering, and modern web technologies.
 
-My primary interests include **Full-Stack Development, Python Development, Backend Engineering, and Artificial Intelligence**.
-
-I am continuously strengthening my knowledge of **Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, REST APIs, and Software Development**.
+Currently expanding my expertise in **React, Node.js, Express.js, PostgreSQL, Django, REST APIs, Artificial Intelligence, and Data Structures & Algorithms**.
 
 <br/>
 
-🎓 **B.Tech — Computer Science & Engineering**
+🎓 B.Tech – Computer Science & Engineering
 
-🏫 **Sreyas Institute of Engineering and Technology**
+🏫 Sreyas Institute of Engineering and Technology
 
-📊 **CGPA: 8.88 / 10**
+📊 CGPA: **8.88 / 10**
 
-💻 **Full-Stack & Software Development Enthusiast**
+💻 Full-Stack Developer
 
-🌱 **Currently improving DSA, Django, React & Backend Development**
+🌱 Currently learning **Node.js, React, PostgreSQL & System Design**
 
-🤖 **Exploring AI and Modern Technologies**
-
-🚀 **Building real-world projects and creative digital experiences**
+🚀 Passionate about building production-ready applications
 
 </td>
 
 <td width="40%" align="center">
 
 <img
-  width="300"
-  src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
+width="300"
+src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
 />
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
 
-## 🌐 Explore My Portfolio
+# 🌐 Portfolio
 
 <p align="center">
 
-### ✨ Creative Developer Portfolio
+### ✨ Interactive Developer Portfolio
 
-A modern and interactive developer portfolio showcasing my projects, technical skills, certifications, education, and development journey.
-
-The portfolio features an immersive animated experience, welcome voice integration, responsive design, project showcases, resume integration, and a fully functional contact system.
+Explore my projects, technical skills, certifications, resume, and development journey through my responsive portfolio.
 
 <br/>
 
 <a href="https://deepshika-portfolio-psi.vercel.app">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 <br/>
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <h3 align="center">Languages & Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react&theme=dark"/>
+
 </p>
 
 <h3 align="center">Backend & Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,mysql,sqlite,mongodb&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,mongodb&theme=dark"/>
+
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel&theme=dark"/>
+
 </p>
 
 <br/>
 
-## 🧠 Core Competencies
+# 🧠 Core Competencies
 
 <p align="center">
 
@@ -141,7 +143,7 @@ The portfolio features an immersive animated experience, welcome voice integrati
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Authentication-4CAF50?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-007ACC?style=for-the-badge"/>
 
@@ -160,33 +162,32 @@ The portfolio features an immersive animated experience, welcome voice integrati
 <h2 align="center">🛒 ShopVerse</h2>
 
 <p align="center">
-<strong>Full-Stack E-Commerce Application</strong>
+
+<strong>Full-Stack E-Commerce Platform</strong>
+
 </p>
 
-A feature-rich e-commerce platform designed to provide a complete online shopping experience.
+A feature-rich online shopping application with secure authentication, payment integration, order tracking, and admin management.
 
 ### ✨ Highlights
 
-- Secure authentication and account management
-- Dynamic product catalog
-- Shopping cart and checkout
-- Razorpay payment integration
-- Server-side payment verification
-- Order history management
-- Dynamic shipment tracking
-- Shipping address management
-- Downloadable PDF invoices
-- Django Admin management
-- Environment variable security
+- User Authentication
+- Shopping Cart
+- Razorpay Payments
+- Order Tracking
+- PDF Invoice Generation
+- Admin Dashboard
 
 ### 🛠 Tech Stack
 
-`Python` `Django` `MySQL` `JavaScript` `Razorpay`
+`Python` `Django` `MySQL` `JavaScript`
 
 <p align="center">
 
 <a href="https://github.com/Deepshika-2006/ShopVerse-Ecommerce">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -198,30 +199,31 @@ A feature-rich e-commerce platform designed to provide a complete online shoppin
 <h2 align="center">🤖 AI Voice Agent</h2>
 
 <p align="center">
+
 <strong>Interactive AI Communication System</strong>
+
 </p>
 
-A real-time AI-powered voice communication system designed to enable intelligent interactions between users and AI systems.
+Real-time AI voice assistant using speech recognition and intelligent voice interaction.
 
 ### ✨ Highlights
 
-- Real-time AI communication
-- Automatic Speech Recognition
-- Text-to-Speech integration
-- WebRTC communication
-- Human-in-the-Loop workflows
-- Low-latency interactions
-- Scalable backend processing
-- Intelligent voice responses
+- Speech Recognition
+- Text-to-Speech
+- WebRTC
+- Human-in-the-Loop
+- Low Latency
 
 ### 🛠 Tech Stack
 
-`AI` `Python` `WebRTC` `ASR` `TTS`
+`Python` `AI` `WebRTC` `ASR` `TTS`
 
 <p align="center">
 
 <a href="https://github.com/Deepshika-2006">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -240,29 +242,37 @@ A real-time AI-powered voice communication system designed to enable intelligent
 
 <td width="100%" valign="top">
 
-<h2 align="center">🏙️ Crowdsourced Civic Issue Reporting System</h2>
+<h2 align="center">🏙️ CivicConnect</h2>
 
 <p align="center">
-<strong>Smart Civic Engagement & Issue Management Platform</strong>
+
+<strong>Smart Civic Issue Reporting & Management Platform</strong>
+
 </p>
 
-A web-based civic engagement platform that enables citizens to report infrastructure and public-service issues while allowing administrators to efficiently track and manage complaint resolution.
+A full-stack civic engagement platform enabling citizens to report infrastructure issues while providing administrators with analytics, issue management, and department workflows.
 
 ### ✨ Highlights
 
-- Civic issue reporting
-- Location-based complaint registration
-- Image evidence uploads
-- Complaint status tracking
-- Administrative dashboard
-- Issue monitoring workflows
-- Citizen and administrator communication
-- Resolution management system
+- Citizen, Admin & Department Admin Login
+- Image Upload & Live Location Reporting
+- Interactive Maps
+- JWT Authentication
+- Issue Analytics Dashboard
+- Garbage Truck Management
+- Real-Time Notifications
+- Rewards & Gamification
+
+### 🛠 Tech Stack
+
+`React` `Node.js` `Express.js` `PostgreSQL` `Sequelize` `JWT`
 
 <p align="center">
 
-<a href="https://github.com/Deepshika-2006">
+<a href="https://github.com/Deepshika-2006/CivicConnect">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -274,22 +284,20 @@ A web-based civic engagement platform that enables citizens to report infrastruc
 </table>
 
 <br/>
+# 💼 Experience
 
-## 💼 Experience
-
-### 🤖 Artificial Intelligence Virtual Internship
+## 🤖 Artificial Intelligence Virtual Internship
 
 **Elewayte**
 
-- Processed and organized raw datasets to improve data quality and usability
-- Performed data analysis to understand patterns and insights
-- Created visualizations to effectively communicate data findings
-- Gained practical experience in data preprocessing and analysis
-- Strengthened analytical thinking and problem-solving skills
+- Processed and organized structured datasets to improve data quality and usability.
+- Performed exploratory data analysis and visualization to identify meaningful insights.
+- Applied data preprocessing techniques and strengthened analytical problem-solving skills.
+- Gained practical exposure to Artificial Intelligence workflows and real-world data handling.
 
 <br/>
 
-## 🏆 Certifications & Achievements
+# 🏆 Certifications & Achievements
 
 <table>
 
@@ -329,13 +337,29 @@ A web-based civic engagement platform that enables citizens to report infrastruc
 
 <td>
 
-💻 Developed multiple Full-Stack applications
+🏙️ Developed **CivicConnect – Smart Civic Issue Management Platform**
 
 </td>
 
 <td>
 
-🎓 Maintaining a **CGPA of 8.88 / 10**
+🛒 Developed **ShopVerse – Full-Stack E-Commerce Platform**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚛️ Built multiple Full-Stack applications using React, Django & Node.js
+
+</td>
+
+<td>
+
+🎓 Maintaining **CGPA: 8.88 / 10**
 
 </td>
 
@@ -345,54 +369,88 @@ A web-based civic engagement platform that enables citizens to report infrastruc
 
 <br/>
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Deepshika-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=Deepshika-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
 />
 
 <img
-  width="48%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Deepshika-2006&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepshika-2006&layout=compact&theme=tokyonight&hide_border=true"
+width="48%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Deepshika-2006&theme=tokyonight&hide_border=true"
 />
 
 </p>
 
-<br/>
-
-## 📈 Contribution Activity
-
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Deepshika-2006&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
+width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepshika-2006&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
 
 <br/>
 
-## 🎯 Currently Focusing On
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Deepshika-2006&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+/>
+
+</p>
+
+<br/>
+
+# 🎯 Currently Focusing On
 
 ```text
-💻 Full-Stack Web Development
-🐍 Advanced Python & Django
-⚛️ React Development
-🧠 Data Structures & Algorithms
-🗄️ Database Management Systems
+💻 Full-Stack Development
+⚛️ React & Node.js
+🗄️ PostgreSQL & Database Design
 🔗 REST API Development
+🧠 Data Structures & Algorithms
 🤖 Artificial Intelligence
-🚀 Building Real-World Projects
+🚀 Building Scalable Real-World Applications
+```
+
+<br/>
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/deepshika-garlapati-b1324a291">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deepshikagarlapati@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://deepshika-portfolio-psi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepshika-2006">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Improve."*
+
+</p>
